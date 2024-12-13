@@ -1,0 +1,68 @@
+# Ignorar archivos y carpetas del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones del entorno de desarrollo
+*.log
+*.bak
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+
+# Ignorar carpetas y archivos generados automáticamente
+target/
+bin/
+*.class
+
+# Ignorar configuraciones locales
+.m2/
+.p2/
+.cache/
+.bash_history
+*.swp
+
+# Ignorar carpetas específicas del sistema
+/AppData/
+/Documents/
+/Downloads/
+/Pictures/
+/Videos/
+/OneDrive/
+/Desktop/
+
+
+# Ignorar archivos y carpetas del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones del entorno de desarrollo
+*.log
+*.bak
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+
+# Ignorar carpetas y archivos generados automáticamente
+target/
+bin/
+*.class
+
+# Ignorar configuraciones locales
+.m2/
+.p2/
+.cache/
+.bash_history
+*.swp
+
+# Ignorar carpetas específicas del sistema
+/AppData/
+/Documents/
+/Downloads/
+/Pictures/
+/Videos/
+/OneDrive/
+/Desktop/
